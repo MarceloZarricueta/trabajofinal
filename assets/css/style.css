@@ -72,3 +72,37 @@ header{
     width: 100%;
     color: #eceff1;
   }
+
+.contenedor-educacion h2{
+    text-align: center;
+}
+
+.contenedor-educacion li{
+    list-style: none;
+    text-align: center;
+}
+
+.contenedor-educacion{
+    background-color: black;
+    display: flex;
+    flex-direction: row; 
+    justify-content: space-evenly;
+    align-items: space-around;
+    color: #eceff1;
+ }
+
+.educacion{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+ .subcontenedor{
+    width: 20%;
+  }
+  
+  .subcontenedor img{
+    height: auto;
+    width: 100%;
+  }
+  
