@@ -41,12 +41,12 @@ header{
   }
   
   header .nav-links li a{
-    font-size: 700;
     color: #eceff1;
     text-decoration: none;
+
   }
 
-  .container {
+  #presentacion{
     background-image: url(../img/fondo\ de\ pagina.jpg);
     background-size: cover;
     background-repeat: no-repeat;
@@ -64,6 +64,7 @@ header{
     text-align: center;
     width: 100%;
     color: #eceff1;
+    padding: 2%;
   }
   
   .container p {
@@ -71,6 +72,8 @@ header{
     text-align: center;
     width: 100%;
     color: #eceff1;
+    padding: 2%;
+    line-height: 150%;
   }
 
 .contenedor-educacion h2{
@@ -154,3 +157,13 @@ header{
   .imagen-laboral {
     width: 150px;
   }
+
+
+.mpr{
+    color:black;
+    text-align: center;
+}
+
+h5{
+  color: gold;
+}
