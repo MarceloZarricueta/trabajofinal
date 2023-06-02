@@ -43,7 +43,6 @@ header{
   header .nav-links li a{
     color: #eceff1;
     text-decoration: none;
-
   }
 
   #presentacion{
@@ -162,8 +161,4 @@ header{
 .mpr{
     color:black;
     text-align: center;
-}
-
-h5{
-  color: gold;
 }
